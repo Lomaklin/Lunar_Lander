@@ -52,9 +52,13 @@ def main():
     rcsleft = pygame.image.load("RCS_left.jpg")
     rcsright = pygame.image.load("RCS_right.jpg")
     rcs_sound = pygame.mixer.Sound("rcs.wav")
+    rcs_sound.set_volume(0.1)
     engine_sound = pygame.mixer.Sound("engine.wav")
+    engine_sound.set_volume(0.1)
     landed_sound = pygame.mixer.Sound("tada.wav")
+    landed_sound.set_volume(10)
     explosion_sound = pygame.mixer.Sound("explode.wav")
+    explosion_sound.set_volume(0.5)
     landerrect = lander.get_rect(center=(width //2, 50))   #<------ start location of Lander
     landingpad = pygame.image.load("LPL1.png")
     landingpadrect = landingpad.get_rect(center=(w_rnd, h_rnd))   #------start location of Landing Pad
