@@ -1,7 +1,14 @@
 # Lunar Lander
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+This is my first foray into coding since I did some basic programing on the Commodore 64 back in 1979/1980.
 
-## Project Description
+This game was inspired from that same time period.  In fact, as I am typing up this description I took a minute to do a quick search on when it was released, and it was 1979 by Atari.  Obviously it made an impression, it has been 40 years!
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+At this point the program is "complete" in that it runs without errors, you have a goal, "Land on the pad before you run out of fuel", and you can start it again or exit cleanly.
+
+## Project Goal
+
+Simple, it was a path to learning Python.  On a Saturday a few weeks ago, I decided I wanted to pickup a programing language, did some research, and Python rang the right bells.  I then thought about what might keep me interested long enough to get past the very real hurdle of learning enough of the syntax to get past the "Hello World" stage.
+
+In my mind I broke it down into stages, and then just researched, and cobbled together code for each stage.  I refined that code as I progressed, and my understanding grew, or as I hit walls that required me to learn entirely new concepts.
+
